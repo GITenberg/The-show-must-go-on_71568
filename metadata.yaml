@@ -1,0 +1,38 @@
+_repo: The-show-must-go-on_71568
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Engle, Robert
+    aliases:
+    - Engle, Robert V.
+    - Engel, Robert V.
+    - Engle, Robert J.
+    birthdate: 1928
+    gutenberg_agent_id: '54220'
+    url: http://www.gutenberg.org/2009/agents/54220
+creator:
+  author:
+    agent_name: Slesar, Henry
+    birthdate: 1927
+    deathdate: 2002
+    gutenberg_agent_id: '28398'
+    url: http://www.gutenberg.org/2009/agents/28398
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Slesar
+description: ''
+gutenberg_issued: '2023-09-04'
+identifiers:
+  gutenberg: '71568'
+language: en
+pgterms:marc905: 20230813095641slesar
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The show must go on
+url: http://www.gutenberg.org/ebooks/71568
